@@ -47,12 +47,12 @@ client.on('message', msg => {
         const marked = new Discord.MessageEmbed()
             .setColor('#000')
             .setDescription(`📍 | Meu prefixo: $\n
-                            🔧 | Comandos:\n
-                            🔑 => $help
-                            👿 => $kick
-                            💀 => $ban
-                            😶 => $mute
-                            🗯️ => $unmute`);
+            🔧 | Comandos:\n
+            🔑 => $help
+            👿 => $kick
+            💀 => $ban
+            😶 => $mute
+            🗯️ => $unmute`);
         msg.reply(marked);
     };
 
