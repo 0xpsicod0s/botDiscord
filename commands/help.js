@@ -6,12 +6,12 @@ module.exports = {
             .setColor('#000')
             .setTitle('🚩 == Menu de ajuda ==', '', 'https://github.com/cxnd3v')
             .setDescription(`📍 | Meu prefixo: $\n
-                            🔧 | Comandos:\n
-                            🔑 => $help
-                            👿 => $kick
-                            💀 => $ban
-                            😶 => $mute
-                            🗯️ => $unmute`);
+            🔧 | Comandos:\n
+            🔑 => $help
+            👿 => $kick
+            💀 => $ban
+            😶 => $mute
+            🗯️ => $unmute`);
         msg.reply(help);
     }
 };
