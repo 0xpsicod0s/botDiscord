@@ -4,7 +4,7 @@
   "description": "Um bot MUITO simples para servidores discord desenvolvido em Node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node .\index.js"
   },
   "keywords": [],
   "author": "",
