@@ -13,8 +13,5 @@ module.exports = {
                             😶 => $mute
                             🗯️ => $unmute`);
         msg.reply(help);
-    },
-    help: {
-        name: 'help'
     }
 };
